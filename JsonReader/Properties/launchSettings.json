@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonReader": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Tester\\InterviewMaterial\\Sample.json D:\\Tester\\InterviewMaterial\\JsonReader\\JsonReader\\bin\\Debug\\net5.0\\test.html"
+    }
+  }
+}
